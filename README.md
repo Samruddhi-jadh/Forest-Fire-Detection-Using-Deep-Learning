@@ -1,8 +1,6 @@
 # Forest-Fire-Detection-Using-Deep-Learning
 Edunet_AICTE_Cycle_6_Internship
-Your notebook doesn’t contain any markdown cells, which suggests the code may not be documented with explanations or headings. Based on the code structure I reviewed, I’ll create a clean, well-organized, and professional **README.md** file for your **Forest Fire Detection Using Deep Learning** project.
 
----
 
 ## 🌲 Forest Fire Detection Using Deep Learning 🔥
 
